@@ -13,4 +13,13 @@
   - Sistemas Operativos.
   - Programación Web.
 
-
+### **Materias Actuales.**
+| **Lunes**                          | **Martes**                         | **Miercoles**                      | **Jueves**                         | **Viernes**                        |
+|------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|
+| Tópicos avanzados de Programación. | Tópicos avanzados de Programación. | Tópicos avanzados de Programación. | Tópicos avanzados de Programación. | Tópicos avanzados de Programación. |
+| Tópicos avanzados de Programación. | Tópicos avanzados de Programación. | Tópicos avanzados de Programación. | Tópicos avanzados de Programación. | Tópicos avanzados de Programación. |
+| Lenguajes de interfaz.             | Lenguajes de interfaz.             | Lenguajes de interfaz.             | Lenguajes de interfaz.             | Lenguajes de interfaz.             |
+| Ingeniería de Software.            | Ingeniería de Software.            | Ingeniería de Software.            | Ingeniería de Software.            | Ingeniería de Software.            |
+| Administración de BD.              | Administración de BD.              | Administración de BD.              | Administración de BD.              | Administración de BD.              |
+| Redes de Computadoras.             | Redes de Computadoras.             | Redes de Computadoras.             | Redes de Computadoras.             | Redes de Computadoras.             |
+| Taller de S.O                      | Taller de S.O                      | Taller de S.O                      | Taller de S.O                      | Taller de S.O                      |
