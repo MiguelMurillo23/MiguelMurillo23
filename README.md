@@ -4,7 +4,7 @@
 
 #### Actualmente soy estudiante del Instituto tecnológico de Tijuana (ITT), en la carrera de Ing. En Sistemas Computacionales en el séptimo semestre.
 
-### **Materias Cursadas.**
+### **Materias Cursadas.** 📗📘📙
   - Fundamentos de programación.
   - Programación orientada a objetos.
   - Estructura de datos.
