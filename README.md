@@ -17,7 +17,7 @@
 | **Lunes**                          | **Martes**                         | **Miercoles**                      | **Jueves**                         | **Viernes**                        |
 |------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|
 | Tópicos avanzados de Programación. | Tópicos avanzados de Programación. | Tópicos avanzados de Programación. | Tópicos avanzados de Programación. | Tópicos avanzados de Programación. |
-| Tópicos avanzados de Programación. | Tópicos avanzados de Programación. | Tópicos avanzados de Programación. | Tópicos avanzados de Programación. | Tópicos avanzados de Programación. |
+| Arq. De Computadoras. | Arq. De Computadoras. | Arq. De Computadoras. | Arq. De Computadoras. | Arq. De Computadoras. |
 | Lenguajes de interfaz.             | Lenguajes de interfaz.             | Lenguajes de interfaz.             | Lenguajes de interfaz.             | Lenguajes de interfaz.             |
 | Ingeniería de Software.            | Ingeniería de Software.            | Ingeniería de Software.            | Ingeniería de Software.            | Ingeniería de Software.            |
 | Administración de BD.              | Administración de BD.              | Administración de BD.              | Administración de BD.              | Administración de BD.              |
