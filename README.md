@@ -24,3 +24,9 @@
 | Administración de BD.              | Administración de BD.              | Administración de BD.              | Administración de BD.              | Administración de BD.              |
 | Redes de Computadoras.             | Redes de Computadoras.             | Redes de Computadoras.             | Redes de Computadoras.             | Redes de Computadoras.             |
 | Taller de S.O                      | Taller de S.O                      | Taller de S.O                      | Taller de S.O                      | Taller de S.O                      |
+
+## Obejetivos Perosonales. ## 🎯🎓🥇
+  - Concluir mis estudios actuales en Ingeniería en Sistemas Computacionales correctamente.
+  - Seguir con un Aprendizaje continuo.
+  - Concluir con una especialidad en desarrollo y diseño de software.
+  - Explorar nuevas tecnologías y entornos de desarrollo.
