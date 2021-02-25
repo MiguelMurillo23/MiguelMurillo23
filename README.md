@@ -13,7 +13,8 @@
   - Sistemas Operativos.
   - Programación Web.
 
-### **Materias Actuales.**
+### **Materias Actuales.**⏰📗📘📙
+
 | **Lunes**                          | **Martes**                         | **Miercoles**                      | **Jueves**                         | **Viernes**                        |
 |------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|
 | Tópicos avanzados de Programación. | Tópicos avanzados de Programación. | Tópicos avanzados de Programación. | Tópicos avanzados de Programación. | Tópicos avanzados de Programación. |
