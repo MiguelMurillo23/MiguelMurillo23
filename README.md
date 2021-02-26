@@ -1,11 +1,5 @@
 ## Hola Compañeros...👋
 <a href="https://cooltext.com"><img src="https://images.cooltext.com/5508954.png" width="548" height="167" alt="HolaMundo!" /></a>
-<br />Image by <a href="https://cooltext.com">Cool Text: Logo and Button Generator</a> - <a href="https://cooltext.com/Edit-Logo?LogoID=3776483732">Create Your Own Logo</a>
-<a href="https://ibb.co/JyqFqjs"><img src="https://i.ibb.co/HxCpCTH/github.png" alt="github" border="0"></a>
-
-![cooltext](https://p79.cooltext.com/Rendered/Cool%20Text%20-%20karmaziel%20377594246556264.png)
-![cooltext]()
-
 
 ### Bienvenidos a mi perfil, mi nombre es Miguel Angel Murillo Mora.😃
 
